@@ -12,6 +12,7 @@ poetry.lock
 .env
 .venv/
 notebooks/submission.csv
+input
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
