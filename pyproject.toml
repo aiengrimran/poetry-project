@@ -15,6 +15,7 @@ matplotlib = "^3.10.1"
 lightgbm = "^4.6.0"
 xgboost = "^3.0.1"
 seaborn = "^0.13.2"
+category-encoders = "^2.8.1"
 
 
 [tool.poetry.group.dev.dependencies]
